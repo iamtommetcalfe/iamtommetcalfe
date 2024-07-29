@@ -1,6 +1,6 @@
 <p style="margin:auto;width:100%;text-align: center">
     <a href="https://www.iamtommetcalfe.com" target="_blank" title="Tom Metcalfe Website">
-        <img alt="Tom Metcalfe Logo" src="https://raw.githubusercontent.com/iamtommetcalfe/website/gh-pages/img/tom-metcalfe-logo.png"
+        <img alt="Tom Metcalfe Logo" src="https://raw.githubusercontent.com/iamtommetcalfe/website/main/img/tom-metcalfe-logo.png"
             width="300">
     </a>
 </p>
