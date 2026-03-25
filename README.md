@@ -5,8 +5,9 @@
     </a>
 </p>
 
-- 🧑‍💻 I work at [Amiqus](https://www.amiqus.co) as the Engineering Function Manager.
-- 🔭 In my own time I am currently working on a OpenAI driven chatbot powered by an OpenAPI specification 🤖.
-- 🌱 I’m currently learning OpenAI, app development and API design.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I can do a Rubiks cube in under 2 minutes (depending on coffee and other variables 😆).
+- 🧑‍💻 Engineering Function Manager at [Amiqus](https://www.amiqus.co), leading multiple engineering teams in identity and compliance
+- 🤖 Leading AI-assisted development adoption across our engineering function, hands-on with Claude Code daily
+- 🎮 Recently built Relic Runner, an iOS endless runner built with Swift and SpriteKit
+- 🔧 Interested in developer tooling, API design, and how AI changes the way teams build software
+- ⚡ I can solve a Rubik's cube in under 2 minutes (coffee-dependent)
+- - 😄 Pronouns: he/him.
