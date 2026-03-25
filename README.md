@@ -10,4 +10,4 @@
 - 🎮 Recently built Relic Runner, an iOS endless runner built with Swift and SpriteKit
 - 🔧 Interested in developer tooling, API design, and how AI changes the way teams build software
 - ⚡ I can solve a Rubik's cube in under 2 minutes (coffee-dependent)
-- - 😄 Pronouns: he/him.
+- 😄 Pronouns: he/him.
